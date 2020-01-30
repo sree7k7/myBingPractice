@@ -1,6 +1,5 @@
 # ebaywebsite
-#Updated readme for azuredevops
-#updated from desktop
+#Updated from website
 ## Project setup
 ```
 npm install
